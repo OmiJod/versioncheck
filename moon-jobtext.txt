@@ -1,1 +1,1 @@
-{"version":"2.1.7", "notes":"TEST"}
+{"version":"1.0.0", "notes":"Do Not Forget to Join "https://discord.gg/5vZsVARNQh"}
