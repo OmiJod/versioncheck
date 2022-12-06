@@ -1,1 +1,1 @@
-{"version":"1.9.9", "notes":"The xsound system was completely repaired, improvements and fixes were also added in Uber App and some general code repairs"}
+{"version":"2.0.2", "notes":"There Will be MenuCardV3 Soon Join Discord From Readme.md to get a Free Copy"}
