@@ -1,8 +1,1 @@
-{"version":"1.0.0", 
-"notes":"
-1) XD123
-2) XD223
-3) XD333
-4) XD443
-5) XD553
-"}
+{"version":"1.0.0", "notes":"asdfjhidswagfusdg"}
